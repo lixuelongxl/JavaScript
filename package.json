@@ -14,7 +14,7 @@
     "axios": "^0.18.0",
     "babel-plugin-component": "^0.10.1",
     "babel-polyfill": "^6.26.0",
-    "echarts": "^4.1.0",
+    "echarts": "^5.5.1",
     "element-ui": "^2.7.0",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
